@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    background-color: #1a422c;
+    margin: auto;
+    max-width: 660px;
+    min-width: 320px;
+}
+
+.titulo{
+    margin-left: 200px;
+    margin-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+tr{
+    background-color: #76ecab;
+}
+
+.Tabela{
+    width: 600px;
+    height: 400px;
+}
+
+.Classificação{
+    padding-top: 30px;
+}
+
+.Títulos{
+    text-align: center;
+}
+
+.Pontos1{
+    text-align: center;
+}
+
+.Pontos2{
+    text-align: center;
+}
+
+.Pontos3{
+    text-align: center;
+}
+
+.Pontos4{
+    text-align: center;
+}
+
+.Pontos5{
+    text-align: center;
+}
+
+.Pontos6{
+    text-align: center;
+}
+
+td{
+    border-style: outset;
+    border-color: #3c694b;
+    border-radius: 6px;
+}
